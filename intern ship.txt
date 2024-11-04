@@ -1,0 +1,8 @@
+Task 1 ( Mobile App Signup Flow ):
+https://www.figma.com/design/qrPqHuNE6IcLRZufFr2kc4/Task-1?node-id=0-1&t=AB7iWo6DvsD5hcV9-1
+
+Task 2 ( email Template ):
+https://www.figma.com/design/rjgQ5yUuP05d27mOzynSxa/Task-2?node-id=0-1&t=t2nBDc07ur81MXJQ-1
+
+Task 3 ( Restaurant menu ):
+https://www.figma.com/design/jRci3zBgtEgXXWu13dpVP5/Restaurant-Menu?node-id=0-1&t=y5IOSsZjpKoxRamE-1
